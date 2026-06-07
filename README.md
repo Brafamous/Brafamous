@@ -40,6 +40,30 @@ I currently work as a Product Safety Engineer in the medical devices industry, w
 - **FPGA/ASIC Direction:** synthesis-aware coding style, timing concepts, clock/reset discipline, and scalable hardware architecture
 - **Digital IC Foundations:** CMOS logic, combinational/sequential circuits, datapath/control partitioning, and VLSI design methodology
 
+## VLSI Learning Roadmap
+
+### ✅ Foundations — Complete
+- **HDL Design:** Verilog RTL — combinational logic, sequential circuits, FSMs, parameterized modules
+- **Scripting:** TCL — automation scripts for EDA tool flows
+- **Verification:** Directed testbenches, simulation with ModelSim/GTKWave, waveform analysis
+- **Projects built:** ALU, 8-bit CPU, 16-bit Register File, LFSR — all designed and verified in Verilog
+
+### 🔧 Currently Working On — Synthesis & Physical Design
+- **RTL-to-GDSII flow** using **OpenLane** with the **SkyWater 130nm PDK**
+- Running synthesis, floorplanning, placement, routing, and DRC/LVS sign-off on custom Verilog designs
+- Learning to interpret **timing reports** (setup/hold slack, critical path analysis)
+- Understanding **area and power trade-offs** from synthesis reports
+
+### 📚 Next Up — Timing Closure & Formal Methods
+- **Static Timing Analysis (STA):** OpenSTA, understanding clock trees and timing constraints (SDC)
+- **Formal Verification:** SymbiYosys / property checking, writing SVA assertions
+- **Low-power design:** Clock gating, multi-Vt cell selection, power intent (UPF basics)
+
+### 🎯 Long-Term Goals
+- Tape-out experience via open-source shuttle programs (e.g., Efabless / Google MPW)
+- Exposure to industry ASIC flows: Synopsys Design Compiler, Cadence Innovus
+- FPGA prototyping of ASIC designs using Vivado targeting Xilinx devices
+
 ## Featured Projects
 
 - [Parameterized Modular ALU in Verilog](https://github.com/Brafamous/ALU_DESIGN)  
