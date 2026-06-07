@@ -44,6 +44,12 @@ I currently work as a Product Safety Engineer in the medical devices industry, w
 
 - [Parameterized Modular ALU in Verilog](https://github.com/Brafamous/ALU_DESIGN)  
   Designed and verified a scalable ALU architecture with arithmetic, logic, comparison, and shift units using a decoder-controlled RTL hierarchy.
+- [8-Bit CPU Design in Verilog](https://github.com/Brafamous/8_bit-CPU_Design)
+  Designed and implemented a complete 8-bit CPU with ALU, registers, control unit, and instruction set using Verilog HDL.
+- [16-Bit Register Design](https://github.com/Brafamous/16-bit-Register-Design)
+  Designed and verified a parameterized 16-bit register file in Verilog for use in digital datapaths.
+- [Linear Feedback Shift Register (LFSR) Design](https://github.com/Brafamous/Linear-Feedback-Shift-Register-Design)
+  Implemented a Verilog-based LFSR for pseudo-random sequence generation and digital testing applications.
 
 ## Tools and Technologies
 
