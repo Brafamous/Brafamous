@@ -20,14 +20,11 @@
 
 I am an electrical/electronics engineer with a growing focus on digital IC design, RTL development, FPGA implementation, ASIC design flow, and VLSI systems. I enjoy taking hardware ideas from architecture and datapath thinking into Verilog modules, simulation, verification, and eventually synthesis-ready designs.
 
-I currently work as a Product Safety Engineer in the medical devices industry, where I think deeply about risk, standards, reliability, and engineering decisions that affect real users. That safety-focused mindset also shapes how I approach hardware design: clear requirements, disciplined verification, and dependable systems.
-
 - BSc Electrical/Electronics Engineering
 - MSc Biomedical Engineering, University of Toronto
 - Currently building projects in Verilog HDL, RTL design, and digital systems
 - Interested in ASIC/FPGA design, computer architecture, verification, and hardware acceleration
 - Reach me at **famoustay55@gmail.com**
-- Personal website: [famoustay.com](https://famoustay.com)
 
 ## Current Hardware Focus
 
@@ -42,27 +39,17 @@ I currently work as a Product Safety Engineer in the medical devices industry, w
 
 ## VLSI Learning Roadmap
 
-### ✅ Foundations — Complete
-- **HDL Design:** Verilog RTL — combinational logic, sequential circuits, FSMs, parameterized modules
-- **Scripting:** TCL — automation scripts for EDA tool flows
-- **Verification:** Directed testbenches, simulation with ModelSim/GTKWave, waveform analysis
-- **Projects built:** ALU, 8-bit CPU, 16-bit Register File, LFSR — all designed and verified in Verilog
-
-### 🔧 Currently Working On — Synthesis & Physical Design
-- **RTL-to-GDSII flow** using **OpenLane** with the **SkyWater 130nm PDK**
-- Running synthesis, floorplanning, placement, routing, and DRC/LVS sign-off on custom Verilog designs
-- Learning to interpret **timing reports** (setup/hold slack, critical path analysis)
-- Understanding **area and power trade-offs** from synthesis reports
-
-### 📚 Next Up — Timing Closure & Formal Methods
-- **Static Timing Analysis (STA):** OpenSTA, understanding clock trees and timing constraints (SDC)
-- **Formal Verification:** SymbiYosys / property checking, writing SVA assertions
-- **Low-power design:** Clock gating, multi-Vt cell selection, power intent (UPF basics)
-
-### 🎯 Long-Term Goals
-- Tape-out experience via open-source shuttle programs (e.g., Efabless / Google MPW)
-- Exposure to industry ASIC flows: Synopsys Design Compiler, Cadence Innovus
-- FPGA prototyping of ASIC designs using Vivado targeting Xilinx devices
+| Stage | Area | Status |
+|-------|------|--------|
+| 1 | HDL Design — Verilog RTL (combinational, sequential, FSMs, parameterized) | ✅ Done |
+| 2 | TCL Scripting — EDA flow automation | ✅ Done |
+| 3 | Simulation & Verification — ModelSim / GTKWave, directed testbenches | ✅ Done |
+| 4 | RTL-to-GDSII — OpenLane + SkyWater 130nm PDK (synthesis, P&R, DRC/LVS) | 🔧 Active |
+| 5 | Timing Analysis — OpenSTA, setup/hold slack, SDC constraints | 🔜 Next |
+| 6 | Formal Verification — SymbiYosys, SVA assertions | 🔜 Next |
+| 7 | Low-Power Design — clock gating, UPF basics | 📅 Planned |
+| 8 | Industry ASIC Flows — Synopsys DC, Cadence Innovus | 📅 Planned |
+| 9 | Tape-out — Efabless / Google MPW open shuttle | 🎯 Goal |
 
 ## Featured Projects
 
