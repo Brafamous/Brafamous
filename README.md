@@ -21,7 +21,7 @@
 I am an electrical/electronics engineer with a growing focus on digital IC design, RTL development, FPGA implementation, ASIC design flow, and VLSI systems. I enjoy taking hardware ideas from architecture and datapath thinking into Verilog modules, simulation, verification, and eventually synthesis-ready designs.
 
 - BSc Electrical/Electronics Engineering
-- MSc Biomedical Engineering, University of Toronto
+- MSc Biomedical Engineering, University of Toronto, with cross-disciplinary systems background
 - Currently building projects in Verilog HDL, RTL design, and digital systems
 - Interested in ASIC/FPGA design, computer architecture, verification, and hardware acceleration
 - Reach me at **famoustay55@gmail.com**
@@ -86,9 +86,6 @@ I am an electrical/electronics engineer with a growing focus on digital IC desig
   </a>
   <a href="https://www.instagram.com/famous.gtay/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@famoustay55" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
 </p>
 
