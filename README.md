@@ -53,6 +53,10 @@ I am an electrical/electronics engineer with a growing focus on digital IC desig
 
 ## Featured Projects
 
+- [UART Safety Controller ASIC — Synthesis, STA & CDC/RDC Signoff](https://github.com/Brafamous/uart-safety-controller-synthesis-sta)  
+  Closed a SKY130 implementation-ready ASIC flow with Yosys synthesis, OpenSTA multi-corner STA, timing closure, reset synchronization, CDC/RDC review, and publication-quality signoff documentation.
+- [UART Safety Controller ASIC RTL](https://github.com/Brafamous/uart-safety-controller-asic)  
+  Designed and verified a SPI-configurable UART safety controller with UART TX/RX, CRC-8, watchdog supervision, sticky fault handling, safe-state control, and interrupt generation.
 - [Parameterized Modular ALU in Verilog](https://github.com/Brafamous/ALU_DESIGN)  
   Designed and verified a scalable ALU architecture with arithmetic, logic, comparison, and shift units using a decoder-controlled RTL hierarchy.
 - [8-Bit CPU Design in Verilog](https://github.com/Brafamous/8_bit-CPU_Design)
